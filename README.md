@@ -1,4 +1,12 @@
-### Hi there 👋
+```
+   ___      _                               ___                   
+  /   \    | |    __ _    _ _       o O O  / __|   __ _     ___   
+  | - |    | |   / _` |  | ' \     o      | (_ |  / _` |   / _ \  
+  |_|_|   _|_|_  \__,_|  |_||_|   TS__[O]  \___|  \__,_|   \___/  
+_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""| 
+"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-' 
+                                                                                         
+```
 
 [![Alan Gao's github stats](https://github-readme-stats.vercel.app/api?username=cgaolei&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
